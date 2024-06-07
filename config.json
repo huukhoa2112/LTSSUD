@@ -1,0 +1,8 @@
+{
+    "image_path": "img",
+    "block_size": [32,32],
+    "min_thres": 0.05,
+    "max_thres": 0.15,
+    "brightness": 200,
+    "contrast": 140
+}
